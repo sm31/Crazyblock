@@ -1,6 +1,6 @@
 Crazyblock by stoneminer
 
-Crazyblock adds a new block and new tools to the Minetest game.
+Crazyblock adds another block and more tools to the Minetest game.
 
 Released under WTFPL
 
