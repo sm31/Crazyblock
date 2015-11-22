@@ -1,2 +1,9 @@
-# Crazyblock
-A mod for the Minetest game. This adds another block and more tools/weapons to the game.
+Crazyblock by stoneminer
+
+Crazyblock adds a new block and new tools to the Minetest game.
+
+Released under WTFPL
+
+0.1 - Initial release.
+
+0.1.1 - Red dye removed from crazyblock crafting recipe.
